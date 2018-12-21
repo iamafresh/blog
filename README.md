@@ -16,6 +16,9 @@
 
 
 ## js深入专题
+  - 递归
+  - 深拷贝
+  - 异步请求顺序序列
 
 
 - [JS 深入专题 Demo](https://codesandbox.io/s/yk4537z4mj)
