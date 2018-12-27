@@ -5,6 +5,8 @@
 
 - [husky lint-staged 构建git工作流](https://segmentfault.com/a/1190000009546913)
 
+### 2018-12
+  - [计算机科学自学指南](http://blog.jobbole.com/114573/)
 
 
 ## 框架原理
@@ -39,6 +41,14 @@
  
  ## 设计模式
  - 观察者模式
+ 
+ ## TODO
+ - 函数式编程  js原生函数及工具ramda库 [阮一峰函数式教程](http://www.ruanyifeng.com/blog/2017/03/ramda.html)
+ - 数据结构及算法 [leetcode](https://leetcode-cn.com/)  [demo](https://codesandbox.io/s/19x2y5223)
+ - webgl及three.js可视化 
+ - 技巧  [30 seconds of code](https://www.css88.com/30-seconds-of-code/#chunk)
+ - [豆瓣读书](https://book.douban.com/tag/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6?start=40&type=T)
+ 
 
 
 
