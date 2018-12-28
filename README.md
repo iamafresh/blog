@@ -24,7 +24,7 @@
   - 双向绑定
   - 函数节流与函数防抖
   - 闭包
-  - 
+  - Promise 实现
 
 
 - [JS 深入专题 Demo](https://codesandbox.io/s/yk4537z4mj)
