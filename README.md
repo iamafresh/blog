@@ -49,6 +49,11 @@
  - 技巧  [30 seconds of code](https://www.css88.com/30-seconds-of-code/#chunk)
  - [豆瓣读书](https://book.douban.com/tag/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6?start=40&type=T)
  
+ 
+ - [webpack 打包优化](https://segmentfault.com/a/1190000011138081)
+ - [2](https://www.cnblogs.com/imwtr/p/7801973.html#top)
+ - [1](https://blog.csdn.net/weizengxun/article/details/80220290)
+ 
 
 
 
