@@ -40,7 +40,7 @@
  
  
  ## 设计模式
- - 观察者模式
+ - [观察者模式](https://github.com/iamafresh/blog/blob/master/strctor/observer.md)
  
  ## TODO
  - 函数式编程  js原生函数及工具ramda库 [阮一峰函数式教程](http://www.ruanyifeng.com/blog/2017/03/ramda.html)
