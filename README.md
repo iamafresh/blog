@@ -9,6 +9,10 @@
   - [计算机科学自学指南](http://blog.jobbole.com/114573/)
 
 
+### 2019-01
+ - [rollupjs打包发布一个npm包]()
+   - rollup配置  babel配置  npm的深入使用 库打包
+
 ## 框架原理
 
 - [react-router实现原理](http://zhenhua-lee.github.io/react/history.html)
