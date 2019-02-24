@@ -12,6 +12,9 @@
 ### 2019-01
  - [rollupjs打包发布一个npm包]()
    - rollup配置  babel配置  npm的深入使用 库打包
+### 2019-02
+- [devtool js调试](https://segmentfault.com/a/1190000008396389)
+- 心得：js调试的各种姿势
 
 ## 框架原理
 
