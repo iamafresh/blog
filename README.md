@@ -16,6 +16,9 @@
 - [devtool js调试](https://segmentfault.com/a/1190000008396389)
 - 心得：js调试的各种姿势
 
+- [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316?utm_source=tag-newest)
+- 新的：通俗易懂的理解await
+
 ## 框架原理
 
 - [react-router实现原理](http://zhenhua-lee.github.io/react/history.html)
