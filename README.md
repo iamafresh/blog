@@ -36,6 +36,7 @@
   - 闭包
   - Promise 实现
   - [call模拟实现](https://segmentfault.com/a/1190000009257663)
+  - 优势  解耦对象与方法
 
 
 - [JS 深入专题 Demo](https://codesandbox.io/s/yk4537z4mj)
