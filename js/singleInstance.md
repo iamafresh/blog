@@ -29,4 +29,4 @@ function Sequence() {
 - 最近这个面试题才让我真正的理解单例模式的用途
 
 
--[]()
+-[单例模式](https://www.cnblogs.com/chris-oil/p/4092865.html )
