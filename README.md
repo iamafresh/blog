@@ -29,7 +29,7 @@
 
 ## js深入专题
   - 递归
-  - 深拷贝
+  - [深拷贝](https://github.com/iamafresh/blog/tree/master/js)
   - 异步请求顺序序列
   - 双向绑定
   - 函数节流与函数防抖
