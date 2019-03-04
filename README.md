@@ -52,7 +52,7 @@
  
  
  ## 设计模式
- - [单例模式](https://www.cnblogs.com/chris-oil/p/4092865.html)
+ - [单例模式](https://github.com/iamafresh/blog/new/master)
  - [观察者模式](https://github.com/iamafresh/blog/blob/master/strctor/observer.md)
  
  ## TODO
