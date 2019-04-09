@@ -10,11 +10,15 @@
 
 
 1  创建指定个数数组的快捷方式
-let  arr = (new Date(n)).fill('').map((item, index) => index);
+```javascript
+ let  arr = (new Date(n)).fill('').map((item, index) => index);
+ ```
 
 2  获取一个月的天数
+```javascript
  function getMonthDay(year, month) {
    return (new Date(year, month, 0)).getDate()
  }
+ ```
  
  // 原理  利用设置天数参数设置为0时返回上个月的最后一天
