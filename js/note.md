@@ -7,3 +7,14 @@
 
 
 所有的这些细节  都可以在MDN上面找到答案。
+
+
+1  创建指定个数数组的快捷方式
+let  arr = (new Date(n)).fill('').map((item, index) => index);
+
+2  获取一个月的天数
+ function getMonthDay(year, month) {
+   return (new Date(year, month, 0)).getDate()
+ }
+ 
+ // 原理  利用设置天数参数设置为0时返回上个月的最后一天
