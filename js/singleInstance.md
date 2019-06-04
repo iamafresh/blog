@@ -13,6 +13,8 @@
   sequence2.next() --> 4;
 **/
 
+
+```javasript
 function Sequence() {
   if (Sequence.instance !== undefined) {
     return Sequence.instance
@@ -24,6 +26,8 @@ function Sequence() {
   }
   Sequence.instance = this
 }
+```
+
 
 
 - 最近这个面试题才让我真正的理解单例模式的用途
