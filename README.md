@@ -55,6 +55,10 @@
  - [单例模式](https://github.com/iamafresh/blog/new/master)
  - [观察者模式](https://github.com/iamafresh/blog/blob/master/strctor/observer.md)
  
+ ## 工具类
+ ### git
+ 
+ 
  ## TODO
  - 函数式编程  js原生函数及工具ramda库 [阮一峰函数式教程](http://www.ruanyifeng.com/blog/2017/03/ramda.html)
  - 数据结构及算法 [leetcode](https://leetcode-cn.com/)  [demo](https://codesandbox.io/s/19x2y5223)
