@@ -28,7 +28,9 @@
 - [diff算法](https://zhuanlan.zhihu.com/p/20346379)
 - [react-redux中的数据传递](https://www.jianshu.com/p/5726bb042bda)
 - [redux常见答疑](https://segmentfault.com/a/1190000007595271)
-
+- [jsBradge](http://www.imooc.com/article/23258)
+- [http1 http1.1 http2区别](https://blog.csdn.net/CrankZ/article/details/81239654)
+- [http2 http1.1和nodeJS实战](https://www.jianshu.com/p/d9029f7227ea)
 
 ## js深入专题
   - 递归
