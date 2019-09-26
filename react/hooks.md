@@ -1,4 +1,10 @@
 
+## 实践
+1 useMemo 处理衍生数据，相当于reselect
+2 React.memo 减少props渲染  相当于Class 组件 shouldComponentUpdate
+3 useCallback 和 useReducer通过使用 memoization 来优化
+
+
 ## 教程
 - [Hooks中文](https://react.docschina.org/docs/hooks-intro.html)
 - [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
