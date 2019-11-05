@@ -1,4 +1,12 @@
-# 理解redux中间件
+## redux常用第三方工具
+- redux-persist  持久化
+- redux-orm 处理数据相互之间关联性高
+- reselect 处理衍生数据
+- normalizr 处理嵌套和相关联的数据结构
+- Redux Undo  撤销  
+
+
+## 理解redux中间件
 -  中间件干什么的
 >  它其实是在action发起到到达reducer之前调用store的方法做你想做的事情
 
