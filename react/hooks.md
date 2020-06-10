@@ -11,9 +11,15 @@
 
 - [React Hooks 原理](https://github.com/brickspert/blog/issues/26)
 
+### 最佳实践
+- [React Hooks 最佳实践](https://juejin.im/post/5ec7372cf265da76de5cd0c9)
+> 让我里面useEffect为什么每次渲染都有自己的props和state, 因为函数式组件每次渲染都有自己的props和state
+
 
 ## Dan
 - [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
+> 理解useEffect最好文章
+
 - [为什么顺序调用对 React Hooks 很重要](https://overreacted.io/zh-hans/why-do-hooks-rely-on-call-order/)
 
 
