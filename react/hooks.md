@@ -13,7 +13,7 @@
 
 ### 最佳实践
 - [React Hooks 最佳实践](https://juejin.im/post/5ec7372cf265da76de5cd0c9)
-> 让我里面useEffect为什么每次渲染都有自己的props和state, 因为函数式组件每次渲染都有自己的props和state
+> 让我理解useEffect为什么每次渲染都有自己的props和state, 因为函数式组件每次渲染都有自己的props和state
 
 
 ## Dan
